@@ -4,11 +4,11 @@ To run the code in you local system follow these steps :
 
 Step 1 . Download this repository code as zip or fork this repository or if you have git installed in your pc just do :
 
-    ```js
+```js
 
-        git clone 
+        git clone https://github.com/Rohitlodhii/aichatbot
 
-    ```
+```
 
 Step 2 . Open the project folder inside the vscode 
 
